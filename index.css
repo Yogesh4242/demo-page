@@ -1,0 +1,47 @@
+
+
+body{ 
+
+
+    input {
+        padding: 10px;
+        font-size: 1.2em;
+        margin-right: 10px;
+    }
+
+
+
+    background-image: url('shrek.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+
+button{
+
+    padding: 25px 45px;
+    font-size: 2em;
+    background-color: black;
+    /* color: white; */
+    border-radius: 30px;
+    
+    
+}
+
+
+button:hover{
+
+    background-color: green;
+
+}
+
+
+
+
